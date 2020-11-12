@@ -35,7 +35,9 @@ The following image shows the web applications appearance after refactoring the 
 
 The following links will take you to the source code in github repository and the deployed live page of the web applications respectively:
 
-* [link to GitHub Repository for the Source Code](https://github.com/vsumargo/Homework-Week-1)
+* [link to GitHub Repository for the README.md and HTML Source Code](https://github.com/vsumargo/Homework-Week-1)
+
+* [link to the style.css source code](https://github.com/vsumargo/Homework-Week-1/blob/main/assets/css/style.css)
 
 * [link to the Deployed Live page of the Web Application](https://vsumargo.github.io/Homework-Week-1/)
 
