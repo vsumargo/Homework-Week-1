@@ -31,7 +31,7 @@ In this project, student modify and existing source code (html and css) to impro
 
 The following image shows the web applications appearance after refactoring the existing source code
 
-![screenshot of web applications](/.assets/images/screenshoot-index-page.png)
+![screenshot of web applications](./blob/main/assets/images/screenshoot-index-page.png)
 
 The following links will take you to the source code in github repository and the deployed live page of the web applications respectively:
 
